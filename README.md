@@ -7,4 +7,4 @@ Spec : <a href="http://dev.w3.org/geo/api/spec-source.html">http://dev.w3.org/ge
 
 ====================
 
-Using HTML5 geo api + google map + foursquare
+Using HTML5 geo api + google map + foursquare : <a href="http://dev.indydedeken.fr/geolocalisation/foursquare/">http://dev.indydedeken.fr/geolocalisation/foursquare</a>
