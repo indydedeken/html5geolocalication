@@ -1,6 +1,6 @@
 <?php 
 	/*
-	 * Page qui enregistrer en DB le checkin
+	 * Page qui enregistre le checkin en DB
 	 * récupère les variables, enregistre puis affiche une image
 	 * sinon, affiche une iframe de youtube
 	 *
